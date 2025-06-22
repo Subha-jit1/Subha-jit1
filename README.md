@@ -4,7 +4,7 @@
 📅 Started My Consistency Journey: **June 22, 2025**  
 🌱 Learning in Public       
 
-[LinkedIn](https://www.linkedin.com/in/subhajit-halder-006b67240/) • [GitHub](https://github.com/Subha-jit1)
+[LinkedIn](https://www.linkedin.com/in/subhajit-halder-006b67240/) • [GitHub](https://github.com/Subha-jit1) • [LeetCode](https://leetcode.com/u/Subhajit01/)
  
 
 ---
