@@ -41,8 +41,7 @@ Git & GitHub • MySQL
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Subha-jit1&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="180em"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subha-jit1&layout=compact&theme=tokyonight" height="180em"/>
-</p>
----
+</p> 
 
 ## 🔥 Current Contribution Flow
 
