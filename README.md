@@ -38,8 +38,7 @@ Git & GitHub • MySQL
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=subha-jit1&show_icons=true&theme=onedark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subha-jit1&layout=compact&theme=onedark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=subha-jit1&show_icons=true&theme=onedark) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subha-jit1&layout=compact&theme=onedark)
 
 ---
 
