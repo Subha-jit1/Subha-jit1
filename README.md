@@ -24,9 +24,7 @@ Laravel • Blade • Eloquent ORM • REST APIs • Sanctum • Inertia.js • 
 
 ### 🎨 Frontend
 Vue.js (Composition API) • Tailwind CSS • Vue Router • Pinia
-
-### ⚙️ Tools & Infra
-Git & GitHub • MySQL
+ 
 ---
 
 ## 📚 Currently Exploring
